@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SMSStore\SMSStore\bin\Debug\SMSStore.dll
+c:\users\administrator\documents\visual studio 2013\Projects\SMSStore\SMSStore\bin\Debug\SMSStore.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\SMSStore\SMSStore\bin\Debug\SourceCode.HostClientAPI.dll
+c:\users\administrator\documents\visual studio 2013\Projects\SMSStore\SMSStore\bin\Debug\SourceCode.Workflow.Client.dll
+c:\users\administrator\documents\visual studio 2013\Projects\SMSStore\SMSStore\obj\Debug\SMSStore.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\SMSStore\SMSStore\obj\Debug\SMSStore.dll
+c:\users\administrator\documents\visual studio 2013\Projects\SMSStore\SMSStore\obj\Debug\SMSStore.pdb
+C:\Users\Administrator\Desktop\K2SMS\SMSStore\bin\Debug\SMSStore.dll
+C:\Users\Administrator\Desktop\K2SMS\SMSStore\bin\Debug\SMSStore.pdb
+C:\Users\Administrator\Desktop\K2SMS\SMSStore\bin\Debug\SourceCode.HostClientAPI.dll
+C:\Users\Administrator\Desktop\K2SMS\SMSStore\bin\Debug\SourceCode.Workflow.Client.dll
+C:\Users\Administrator\Desktop\K2SMS\SMSStore\obj\Debug\SMSStore.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\K2SMS\SMSStore\obj\Debug\SMSStore.dll
+C:\Users\Administrator\Desktop\K2SMS\SMSStore\obj\Debug\SMSStore.pdb

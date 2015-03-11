@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="K2SMS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="K2SMS_SendSMS_SendServiceNoHeader" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://www.esendex.com/secure/messenger/soap/SendServiceNoHeader.asmx</Value>
+    </Setting>
+    <Setting Name="K2SMS_SMSAdmin_AccountServiceNoHeader" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://www.esendex.com/secure/messenger/soap/AccountServiceNoHeader.asmx</Value>
+    </Setting>
+    <Setting Name="K2SMS_InboxSMS_InboxServiceNoHeader" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://www.esendex.com/secure/messenger/soap/InboxServiceNoHeader.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

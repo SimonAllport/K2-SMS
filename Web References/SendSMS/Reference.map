@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://www.esendex.com:81/secure/messenger/soap/SendServiceNoHeader.asmx?wsdl" filename="SendServiceNoHeader.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="https://www.esendex.com/secure/messenger/soap/SendServiceNoHeader.asmx?disco" filename="SendServiceNoHeader.disco" />
+  </Results>
+</DiscoveryClientResultsFile>
